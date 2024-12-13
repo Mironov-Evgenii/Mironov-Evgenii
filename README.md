@@ -25,7 +25,7 @@
 ## 🛠️ Технологии и инструменты  
 
 **Языки программирования и библиотеки**  
-- Python (NumPy, Pandas, Matplotlib)  
+- Python (NumPy, Pandas, Matplotlib, Seaborn)  
 - SQL (PostgreSQL)  
 - DAX, M (Power BI)  
 
