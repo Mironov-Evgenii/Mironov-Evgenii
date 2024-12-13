@@ -45,7 +45,7 @@
 
 ## 📞 Связь и социальные сети  
 
-- [LinkedIn](www.linkedin.com/in/evgenii-mironov-948879181)  
+- [LinkedIn](https://www.linkedin.com/in/evgenii-mironov-948879181)  
 - [Telegram](https://t.me/jerambo)  
 - [E-mail](mailto:mironov-evgeniy-michailovich@me-analyst.ru)  
 
